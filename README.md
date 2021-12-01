@@ -34,6 +34,7 @@
 - No preprocessing (design tokens and utility classes)
 - Use for realistic page layouts
     - Example: [mocking up card layout](https://codepen.io/pglevy/pen/eYgrPxq?editors=1000)
+    - Exmaple: [content prototype exploration](https://codepen.io/andrewparrucci/full/jOLdpBp)
 
 [USWDS User Flows](https://codepen.io/pglevy/pen/mdMZXOX):
 
