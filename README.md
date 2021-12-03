@@ -67,6 +67,7 @@
 
 ## Next steps and resources
 
+- Review [README "handout"](https://github.com/Bixal/rwp-with-uswds) from this presentation
 - Fork [CodePen templates](https://codepen.io/collection/waGRZM)
 - Check out [USWDS boilerplate template on GitHub](https://github.com/Bixal/uswds-boilerplate)
 - Check out [USWDS Screener Prototyping Tool template](https://github.com/Bixal/uswds-screener-prototyping-tool)
