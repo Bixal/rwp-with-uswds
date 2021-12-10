@@ -3,8 +3,9 @@
 ## Why rapid web prototyping?
 
 - Rapid prototyping *accelerates learning*, *reduces risk*, and *improves outcomes*
-- Using USWDS aligns design and development around a *common language* to build *shared artifacts*
-- Doing it in the browser with realistic content generates *meaningful feedback* early in the process
+  - Doing it in the browser with realistic content generates *meaningful feedback* early in the process
+  - Using USWDS aligns design and development around a *common language* to build *shared artifacts*
+  - Involves the *whole team* and creates a *shared understanding* of what you're building toward.
 
 ## How to do it
 
