@@ -1,14 +1,14 @@
 ### REQUIRED SETTINGS ###
 
 # Set a plain language title for the site.
-title: USWDS Boilerplate
+title: Rapid web prototyping with the U.S. Web Design System
 
 # Write a short description for the site. This is used for "meta description."
-description: A starting point for rapid web prototyping using a hosted version of the U.S. Web Design System
+description: Guidance and resources on how to do rapid prototyping with USWDS
 
 # Enable for live hosting on GitHub Pages
 # This should match the name of your GitHub repository, along with a leading forward slash (/).
-baseurl: /uswds-boilerplate
+baseurl: /rwp-with-uswds
 
 ### RECOMMENDED SETTINGS ###
 
